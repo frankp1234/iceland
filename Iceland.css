@@ -1,0 +1,28 @@
+body         { background-color: #FFFFFF }
+.poem        { text-align: left; margin-top: 0; margin-bottom: 0 }
+.caption      { font-family: arial; font-size: 10pt; font-weight: bold; text-align: center }
+.button       { font-family: arial; font-size: 10pt; color: #FFFFFF;  
+               text-align: left }
+               
+.sm_nav       { font-family: arial; font-size: 8 pt;  
+               text-align: center }
+
+               
+.email       { font-family: arial; font-size: 10pt; font-weight: bold; text-align: center; margin-bottom:0; margin-top:20}
+.copyright   { font-family: arial; font-size: 8pt; text-align: center; margin-top:12}
+p            { font-family: Arial; font-size: 10pt; margin-top:0 }
+h1           { font-family: Arial; font-size: 24pt; font-weight: bold; color:#3333CC }
+h2           { font-family: Arial; font-size: 14pt; font-weight: bold; margin-bottom: 6pt; color:#3333CC }
+h3           { font-family: arial; font-size: 10pt; font-weight: bold; margin-bottom:0; margin-top:0 }
+ul           { font-family: arial; font-size: 10pt;  }
+address      { font-family: Arial; font-size: 10pt; margin-top: 0; margin-bottom: 0 }a:active     { color: #FFFFFF; text-decoration: none }
+
+<!-- a:active     { color: #FFFFFF; class="button"; text-decoration: none} -->
+<!-- a:link       { color: #0000FF; text-decoration: none } --> 
+<!-- a:visited    { color: #00FF00; text-decoration: none } -->
+
+a.nav:link       { color: #FFFFFF; text-decoration: none } 
+a.nav:visited    { color: #FFFFFF; text-decoration: none } 
+
+a.txt:link       { color: #0000FF; text-decoration: none } 
+a.txt:visited    { color: #0000FF; text-decoration: none } 
