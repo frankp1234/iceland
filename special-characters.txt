@@ -1,27 +1,26 @@
-þ &thorn;  lowercase thorn
 
-Þ &THORN;  UPPERCASE THORN
+Á   &Aacute;
 
+á   &aacute;	
 
+ð ð   &eth;   latin small letter eth
 
-ð 
+ó  &oacute;
 
-ó
+ö   	&ouml;
 
-ö
+ý &yacute;  &Yacute;
 
-ý
+ú &uacute;
 
-ú
+í &iacute;
 
-í
-
-Í
+Í  &Iacute;
 
 &#8206;
 ´ (smart apostrophe)
 
-
+copyright
 
 
 <h2>Isak's Church at Sau<font face="Arial">ð</font>anes</h2>
